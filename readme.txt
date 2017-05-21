@@ -33,3 +33,7 @@ Keep trying, I guess.
 
 I installed sound[2].html on DCF but even being on a webserver didn't help.
 Added makefile to ease push of updates to webserver.
+
+TODO: when timer counts down to zero, we need it to stop and possibly alert
+the user (different sound?  foghorn, maybe?)
+
