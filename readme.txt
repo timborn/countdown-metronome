@@ -3,6 +3,11 @@ Sat May 20 19:40:32 CDT 2017
 metronome + countdown timer
 believe it or not, this is useful for medical testing
 
+At this point we have a skeleton that counts down a timer.
+To run it, just open timer.html in your browser.
+
+TODO: how to make a sound?
+
 metronome icon 
 https://cdn.dribbble.com/users/1260364/screenshots/2820108/metro_gnome-01.jpg
 
@@ -15,4 +20,3 @@ http://stackoverflow.com/questions/20618355/the-simplest-possible-javascript-cou
 getElementById vs querySelector
 https://jsperf.com/getelementbyid-vs-queryselector
 
-TODO: how to make a sound?
