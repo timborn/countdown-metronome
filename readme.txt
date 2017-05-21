@@ -38,3 +38,9 @@ Added makefile to ease push of updates to webserver.
 TODO: when timer counts down to zero, we need it to stop and possibly alert
 the user (different sound?  foghorn, maybe?)
 
+Wrote noisy-seconds.html to tie the timer and noises together by making 
+a noise every second.  You can run this locally by just opening up that 
+html in your browser, but beware!  
+
+TODO: a metronome takes Beats Per Minute as input.  We need an input in BPM
+and it has to run up to at least 120 BPM.

@@ -1,3 +1,8 @@
+function playSound () {
+    var snd = new Audio("snd/boom.wav");
+    snd.play();
+}
+
 function startTimer(duration, display) {
     var timer = duration, minutes, seconds;
 
@@ -13,6 +18,8 @@ function startTimer(duration, display) {
         if (--timer < 0) {
             timer = duration;
         }
+        
+        playSound();
     };
 
     setInterval( updateTime, 1000);
