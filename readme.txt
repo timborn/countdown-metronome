@@ -30,3 +30,6 @@ I am seeing an error "[Error] Failed to load resource: The requested URL
 was not found on this server. (WebAudioPluginTest.fail, line 0)"
 
 Keep trying, I guess.
+
+I installed sound[2].html on DCF but even being on a webserver didn't help.
+Added makefile to ease push of updates to webserver.
