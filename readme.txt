@@ -20,3 +20,13 @@ http://stackoverflow.com/questions/20618355/the-simplest-possible-javascript-cou
 getElementById vs querySelector
 https://jsperf.com/getelementbyid-vs-queryselector
 
+Sun May 21 08:30:00 CDT 2017
+----------------------------
+Went looking for a way to make sounds in JS.
+Found http://www.createjs.com/soundjs, which resulted in sound.html in the
+local directory here.  While the examples all seem to work on their website, 
+I get an error when I try to run it in any of my browsers.  In the JS console
+I am seeing an error "[Error] Failed to load resource: The requested URL 
+was not found on this server. (WebAudioPluginTest.fail, line 0)"
+
+Keep trying, I guess.
