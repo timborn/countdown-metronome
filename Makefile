@@ -1,6 +1,6 @@
 .PHONY: push
 WEBSITE = deltacfax.com:deltacfax.com/denborn
-WEBFILES = sound.html sound2.html
+WEBFILES = sound.html sound2.html timer.html timer.js
 
 push:
 	scp ${WEBFILES} ${WEBSITE}
