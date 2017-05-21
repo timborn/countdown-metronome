@@ -1,3 +1,4 @@
+something to start with
 Sat May 20 19:40:32 CDT 2017
 ----------------------------
 metronome + countdown timer
